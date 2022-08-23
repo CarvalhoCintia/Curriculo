@@ -1,2 +1,2 @@
-# Curriculo
+# CV
 Exemplo de um Currículo
